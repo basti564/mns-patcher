@@ -1,4 +1,4 @@
-# mns-patcher
+# mns-patcher COMING SOON
 ## Intro
 This is a standalone POC using the main exploit used in [MNSPlusTrasher](https://github.com/basti564/MNSPlusTrasher)
 ## Theory
